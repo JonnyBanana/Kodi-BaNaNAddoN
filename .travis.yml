@@ -6,8 +6,7 @@ python:
 
 env:
   global:
-    # !!! Replace the encryption label below with YOURS
-    - ENCRYPTION_LABEL: "e91d7cae23cf"
+    - ENCRYPTION_LABEL: "4cbf8f60a106"
     - COMMIT_AUTHOR_EMAIL: "howtohackitalia@gmail.com"
 
 script:
